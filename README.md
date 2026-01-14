@@ -20,3 +20,6 @@ The goal was to build a robust library of common computer science algorithms—r
 1. **Test the library:**
    ```bash
    mvn test
+2. **Compile:**
+   ```bash
+   mvn clean compile
